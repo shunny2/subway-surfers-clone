@@ -25,7 +25,7 @@
 Subway Surfs is a 3D endless runner video game. This project is a prototype of this game.
 
 
-Game link available at: https://shunny2.github.io/subway-surfes-clone/
+The game link is available at: https://shunny2.github.io/subway-surfes-clone/
 
 ## Technologies
 
