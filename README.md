@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about-subway-surfes-clone">About Subway Surfes Clone</a>
+  <a href="#about-subway-surfers-clone">About Subway Surfers Clone</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,15 +15,14 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/github/stars/shunny2/subway-surfes-clone"><img src="https://img.shields.io/github/stars/shunny2/subway-surfes-clone" alt="GitHub Repo stars" ></a>
-  <a href="https://img.shields.io/github/forks/shunny2/subway-surfes-clone"><img src="https://img.shields.io/github/forks/shunny2/subway-surfes-clone" alt="Repo Forks"/></a>
-  <a href="https://img.shields.io/github/license/shunny2/subway-surfes-clone"><img src="https://img.shields.io/github/license/shunny2/subway-surfes-clone" alt="License"/></a>
+  <a href="https://img.shields.io/github/stars/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/stars/shunny2/subway-surfers-clone" alt="GitHub Repo stars" ></a>
+  <a href="https://img.shields.io/github/forks/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/forks/shunny2/subway-surfers-clone" alt="Repo Forks"/></a>
+  <a href="https://img.shields.io/github/license/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/license/shunny2/subway-surfers-clone" alt="License"/></a>
 </p>
 
-## About Subway Surfes Clone
+## About Subway Surfers Clone
 
-Subway Surfs is a 3D endless runner video game. This project is a prototype of this game.
-
+Subway Surfers is a 3D endless runner video game. This project is a prototype of this game.
 
 The game link is available at: https://shunny2.github.io/subway-surfes-clone/
 
