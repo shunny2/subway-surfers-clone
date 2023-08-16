@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about-subway-surfers-clone">About Subway Surfers Clone</a>
+  <a href="#about-application">About Application</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,17 +15,14 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/github/stars/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/stars/shunny2/subway-surfers-clone" alt="GitHub Repo stars" ></a>
-  <a href="https://img.shields.io/github/forks/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/forks/shunny2/subway-surfers-clone" alt="Repo Forks"/></a>
-  <a href="https://img.shields.io/github/license/shunny2/subway-surfers-clone"><img src="https://img.shields.io/github/license/shunny2/subway-surfers-clone" alt="License"/></a>
+  <a href="https://img.shields.io/github/stars/shunny2/subway-surfers-clone?style=social"><img src="https://img.shields.io/github/stars/shunny2/subway-surfers-clone?style=social" alt="GitHub Repo stars" ></a>
+  <a href="https://img.shields.io/github/forks/shunny2/subway-surfers-clone?style=social"><img src="https://img.shields.io/github/forks/shunny2/subway-surfers-clone?style=social" alt="Repo Forks"/></a>
+  <a href="https://img.shields.io/github/license/shunny2/subway-surfers-clone?style=social"><img src="https://img.shields.io/github/license/shunny2/subway-surfers-clone?style=social" alt="License"/></a>
 </p>
 
-## About Subway Surfers Clone
+## About Application
 
-Subway Surfers is a 3D endless runner video game. This project is a prototype of this game.
-
-
-The game link is available at: https://shunny2.github.io/subway-surfers-clone/
+<b>Subway Surfers Clone</b> is a game prototype based on the renowned [Subway Surfers](https://poki.com.br/g/subway-surfers). This project was undertaken for educational purposes, aiming to grasp the mechanics of the game's infinite rendering of the environment. Currently, the game's development is on hold.
 
 ## Technologies
 
