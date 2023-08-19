@@ -26,7 +26,15 @@
 
 ## Technologies
 
-- [Unity](https://unity.com/)
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://unity.com/" title="Unity3D"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity logo image." /></a>
+    </td>
+  </tbody>
+</table>
 
 ## Project Status
 
